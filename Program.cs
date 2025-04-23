@@ -60,7 +60,7 @@ namespace BreakFast
             Console.WriteLine("Warming the egg pan...");
             Task.Delay(3000);
 
-            Console.WriteLine($"cracking eggs");
+            Console.WriteLine("cracking eggs");
             Console.WriteLine("cooking the eggs ...");
             Task.Delay(3000);
 
