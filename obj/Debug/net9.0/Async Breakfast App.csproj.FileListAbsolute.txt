@@ -12,3 +12,4 @@ C:\Users\bishw\OneDrive\Desktop\Snow\Async Breakfast App\obj\Debug\net9.0\refint
 C:\Users\bishw\OneDrive\Desktop\Snow\Async Breakfast App\obj\Debug\net9.0\Async Breakfast App.pdb
 C:\Users\bishw\OneDrive\Desktop\Snow\Async Breakfast App\obj\Debug\net9.0\Async Breakfast App.genruntimeconfig.cache
 C:\Users\bishw\OneDrive\Desktop\Snow\Async Breakfast App\obj\Debug\net9.0\ref\Async Breakfast App.dll
+C:\Users\bishw\OneDrive\Desktop\Snow\Async Breakfast App\obj\Debug\net9.0\Async Breakfast App.sourcelink.json
